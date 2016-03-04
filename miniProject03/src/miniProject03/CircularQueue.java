@@ -1,5 +1,7 @@
 package miniProject03;
 
+// Our names are Megan and Tom.
+
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
